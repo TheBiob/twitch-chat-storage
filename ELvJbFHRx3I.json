@@ -1,0 +1,218 @@
+{
+    "embedded_data": {
+        "thirdParty": [
+            {
+                "id": "16009",
+                "imageScale": 2,
+                "data": "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",
+                "name": "YoshiFood",
+                "width": 51,
+                "height": 20,
+                "isZeroWidth": false
+            }
+        ],
+        "firstParty": [],
+        "twitchBadges": [
+            {
+                "name": "broadcaster",
+                "versions": {
+                    "1": {
+                        "title": "Broadcaster",
+                        "description": "Broadcaster",
+                        "bytes": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAF1SURBVHgB7ZhBSsNAFIb/mbaiVGLcSLMoeAS77S20IF5A91pzChHXmoVrRbDewI12qUcoRDCujIKtVNJxXkEQJzVJjclA80FIGJLwZV6Y/HkMkseauVpilVMwrAnBTGRPZySGu5bn99hYhlfuchL5ji+lGpyz8pEGMoRJVWJP1oqAPvgcemHqJoRCKIpy2ODC9g4W2zaYYWAaAtfF+/kZ3g4PkBRFqNrel5uNv1Cq18f3Ea8v6Dsnia5VSja/uYW0IKlJVJpNmBeXyrgyQ/R0acGMJYSJVPdszMl9GGVkRJQIshKKK4KshJZD3pPfKBbGKAqhKAqhKGZP6Lm1jmH3Jvb5/y700b2F39qILZZZyeKKKULBg4u0oKCWVEwR6jvHSAtKjZP4EvuJ8nEdOA64zDEU1KbNRjTLA5kUk6ZFQrcfxWJhjEQ/IcaED43gELiHJgiwK9mwqsmGVZB7w4oqFYxKDW55Xo8O5FgHOUAiQohrciCXT9IAjFNTiuX/AAAAAElFTkSuQmCC"
+                    }
+                }
+            }
+        ],
+        "twitchBits": []
+    },
+    "messages": [
+        {
+            "_id": "t7sothGnphchgw",
+            "content_offset_seconds": 18,
+            "commenter": {
+                "display_name": "TheBiob",
+                "_id": "82332987",
+                "name": "thebiob"
+            },
+            "message": {
+                "body": "YoshiFood",
+                "user_color": "#0000FF",
+                "user_badges": [
+                    {
+                        "_id": "broadcaster",
+                        "version": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "JMUothGnphcvEQ",
+            "content_offset_seconds": 9683,
+            "commenter": {
+                "display_name": "normaltaylor",
+                "_id": "995551618",
+                "name": "normaltaylor"
+            },
+            "message": {
+                "body": "hey",
+                "user_color": null,
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "8MkothGnphdjmA",
+            "content_offset_seconds": 9686,
+            "commenter": {
+                "display_name": "normaltaylor",
+                "_id": "995551618",
+                "name": "normaltaylor"
+            },
+            "message": {
+                "body": "how are you man",
+                "user_color": null,
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "e84othGnphfkPw",
+            "content_offset_seconds": 10266,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "a koopa between two tiles??",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "_9IothGnphdz4g",
+            "content_offset_seconds": 10277,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "how does that work?",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "C9gothGnpheTgg",
+            "content_offset_seconds": 10311,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "how does LM render that properly?",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "ntwothGnphfw6A",
+            "content_offset_seconds": 10373,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "ah so the sprite tool creates a .json file to render it properly.",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "DOEothGnphfIzA",
+            "content_offset_seconds": 10385,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "I'm too used to the \"undefined custom sprite\" thingy in LM.",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "euUothGnphevOg",
+            "content_offset_seconds": 10568,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "it works until the player gets hit, then it goes off track.",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "4OkothGnphfU7w",
+            "content_offset_seconds": 10677,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "imagine using tools that tell you what the asm commands do.",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "ZO4othGnpheOgg",
+            "content_offset_seconds": 10712,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "so you don't think REP 20 repeats the next line 20 times.",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "3_IothGnpheZpw",
+            "content_offset_seconds": 10797,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "advantages of streaming: you can get distracted by random people in chat.",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "T_cothGnpheuIw",
+            "content_offset_seconds": 10858,
+            "commenter": {
+                "display_name": "dacin",
+                "_id": "32255515",
+                "name": "dacin"
+            },
+            "message": {
+                "body": "(the real distraction in still being rendered.)",
+                "user_color": "#008000",
+                "user_badges": []
+            }
+        }
+    ]
+}
