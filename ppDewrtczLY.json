@@ -1,0 +1,1280 @@
+{
+    "embedded_data": {
+        "twitch_badges": [
+            {
+                "name": "broadcaster",
+                "versions": {
+                    "1": {
+                        "title": "Broadcaster",
+                        "description": "Broadcaster",
+                        "bytes": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAF1SURBVHgB7ZhBSsNAFIb/mbaiVGLcSLMoeAS77S20IF5A91pzChHXmoVrRbDewI12qUcoRDCujIKtVNJxXkEQJzVJjclA80FIGJLwZV6Y/HkMkseauVpilVMwrAnBTGRPZySGu5bn99hYhlfuchL5ji+lGpyz8pEGMoRJVWJP1oqAPvgcemHqJoRCKIpy2ODC9g4W2zaYYWAaAtfF+/kZ3g4PkBRFqNrel5uNv1Cq18f3Ea8v6Dsnia5VSja/uYW0IKlJVJpNmBeXyrgyQ/R0acGMJYSJVPdszMl9GGVkRJQIshKKK4KshJZD3pPfKBbGKAqhKAqhKGZP6Lm1jmH3Jvb5/y700b2F39qILZZZyeKKKULBg4u0oKCWVEwR6jvHSAtKjZP4EvuJ8nEdOA64zDEU1KbNRjTLA5kUk6ZFQrcfxWJhjEQ/IcaED43gELiHJgiwK9mwqsmGVZB7w4oqFYxKDW55Xo8O5FgHOUAiQohrciCXT9IAjFNTiuX/AAAAAElFTkSuQmCC"
+                    }
+                }
+            },
+            {
+                "name": "premium",
+                "versions": {
+                    "1": {
+                        "title": "Prime Gaming",
+                        "description": "Prime Gaming",
+                        "bytes": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAABGdBTUEAALGPC/xhBQAAAlJJREFUWAljZFj1n43hzc0mBsb/cQz//0syDARgZHzO8J9xEYOIeh0jw7QbHQwM/8oHwh2YdjJ1MoFDBlNmYESAscQ0YNGEzcvAJMOETXwgxUYdRCj0R0NoZIZQnbEIQ4WhMCHPEyXPgksVKzB1/f6HSxYhXqIvxNBoJgoW+P7nH8PEy+8RkjhYbECzf+EwG2eiXuEqzcDCiMNEqHC2jiBDt5U4XNEEGwmGNC0BOB8bA+TR5UCzcQGcDgpU5GVY5CzFgEtBkgY/w2QbhGNgFsywk2CIU+OHcVFoZqAHl7pIM/gr8KKII3Nw2QdWE6nKzzDHUZIBPaCiVPkYZjsAxRnRZRjAYvOAesKUUS0FqZzvKMUQqsyHbD8GG6eD/kOVJmoIMEyxRYREEDDkFjoBQw6LY2CmMzMxMixxlmbwU+CBCTHMsJdgiFWHhBwerQw4EzXcJCAjS0eI4fuf/wz7nn4Fxz8L0EJCgBUYP6vcgNGz/QmDpxwPMG0JEtIClge2h67BAgNFw590DQaQT5HB33//McSQ5bGxsen59x9ozowb2JTjTLNYFaM7EKsiNEFselC9iaqBYBpCVU57Hk4H0d5q7DYMiIOwFRcw5+F0EDDdDQjA6aBvwHqJVuD3X9y+xemga+9/0so9DLc//sJpNk4H5R95yXDxzQ8GfL7BaSoOiT/Acuwm0KP5R1/gUAGsenAVjDh10FgCZwjR2F6cxo86CGfQQCVGQ2gIhhBosGiwAKBbgMMxwJGrwQKAbmECDaMxMDB1AlvnAxdSYLuBbgC6BQC7iX4EIPIa/wAAAABJRU5ErkJggg=="
+                    }
+                }
+            }
+        ]
+    },
+    "messages": [
+        {
+            "_id": "VlDO1LNhrBd_nA",
+            "content_offset_seconds": 24,
+            "commenter": {
+                "display_name": "TheBiob",
+                "_id": "82332987",
+                "name": "thebiob"
+            },
+            "message": {
+                "body": "FishChamp",
+                "user_color": "#0000FF",
+                "user_badges": [
+                    {
+                        "_id": "broadcaster",
+                        "version": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "qVnO1LNhrBevSA",
+            "content_offset_seconds": 6814,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "gl survival 👀",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "a17O1LNhrBfAvg",
+            "content_offset_seconds": 6928,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "if it works, it's intended",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "HWPO1LNhrBeGXQ",
+            "content_offset_seconds": 6960,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "(im a kaizo player)",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "eWfO1LNhrBeihg",
+            "content_offset_seconds": 7910,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "SourPls",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "3WvO1LNhrBea_Q",
+            "content_offset_seconds": 8410,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "berries are fruits if you think about it",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "KHDO1LNhrBchVg",
+            "content_offset_seconds": 8419,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "like smw berry apples",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "hXTO1LNhrBdmsw",
+            "content_offset_seconds": 8497,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "lmao",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "DHnO1LNhrBf7vA",
+            "content_offset_seconds": 8564,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "its ok twisted plains is a smw fangame",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "gH3O1LNhrBezQw",
+            "content_offset_seconds": 8602,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "that's incredible",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "0YHO1LNhrBeIEg",
+            "content_offset_seconds": 8608,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "it worked!!",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "JIbO1LNhrBfBQQ",
+            "content_offset_seconds": 8624,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "of course PrideLaugh",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "eIrO1LNhrBe-6Q",
+            "content_offset_seconds": 8638,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "I was just being mean",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "yo7O1LNhrBe0Zw",
+            "content_offset_seconds": 8693,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "I didn't but it's on my computer",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "HJPO1LNhrBdjvA",
+            "content_offset_seconds": 8713,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "also I only played base IWBTG and then quit boshy because I was like 12 and I didn't try anything else I think",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "bJfO1LNhrBdCUw",
+            "content_offset_seconds": 8985,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "yeah it's been pushed back to later now",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "1pvO1LNhrBcFAw",
+            "content_offset_seconds": 8997,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "no I mean as of last year",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "MKDO1LNhrBcG8A",
+            "content_offset_seconds": 9000,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "sorry I was agreeing",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "eKTO1LNhrBc6MQ",
+            "content_offset_seconds": 9003,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "wtf 3 hacks",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "yKjO1LNhrBfdGg",
+            "content_offset_seconds": 9030,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "but yeah feb 23-27",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "DK3O1LNhrBcwag",
+            "content_offset_seconds": 9088,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "have you considered testing hf's autowalk hack to put more things on your plate",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "WLHO1LNhrBeWoQ",
+            "content_offset_seconds": 9303,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "basically geometry dash in smw",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "r7XO1LNhrBeKvg",
+            "content_offset_seconds": 9350,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "or spawning a koopa kid",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "-LnO1LNhrBebKA",
+            "content_offset_seconds": 9369,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "lol",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "fsHO1LNhrBeOWA",
+            "content_offset_seconds": 9385,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "he probably gets it better than I do 😅",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "bsbO1LNhrBcmnQ",
+            "content_offset_seconds": 9429,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "there should be a video outlining the classic ways to exploit spawning a reznor",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "wcrO1LNhrBftdw",
+            "content_offset_seconds": 9436,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "just so people know what to avoid",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "IM_O1LNhrBeFkw",
+            "content_offset_seconds": 10560,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "gg",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "bNPO1LNhrBcZwQ",
+            "content_offset_seconds": 10617,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "you're so stubborn 😅",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "1tfO1LNhrBdwag",
+            "content_offset_seconds": 10790,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "it does look tight on timing",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "JdzO1LNhrBcITg",
+            "content_offset_seconds": 10944,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "lol",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "cuDO1LNhrBe4Yg",
+            "content_offset_seconds": 11361,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "uhh on what scale",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "4uTO1LNhrBecJQ",
+            "content_offset_seconds": 11375,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "feel like they're always extremely unique",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "MenO1LNhrBdgwA",
+            "content_offset_seconds": 11398,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "and generally I like that a lot so I mean I'd say good",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "e-3O1LNhrBfzqg",
+            "content_offset_seconds": 11457,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "lol",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "zvHO1LNhrBfU9w",
+            "content_offset_seconds": 11494,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "I mean it was good, I was enjoying it",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "JvbO1LNhrBda8Q",
+            "content_offset_seconds": 11548,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "but yeah to answer I guess, yeah it's a lot of really difficult stuff, but because it's also really novel I'm totally fine with the time spent on it",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "ePrO1LNhrBe0-Q",
+            "content_offset_seconds": 11596,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "I certainly saw some other people get annoyed yeah 😅",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "z_7O1LNhrBdOLw",
+            "content_offset_seconds": 11997,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "mode 7 in iwbtg?!",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "GgPP1LNhrBfCxg",
+            "content_offset_seconds": 12014,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "that sounds really cool",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "fQfP1LNhrBfhAg",
+            "content_offset_seconds": 12092,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "✨ growing as a person ✨",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "xwvP1LNhrBc1LA",
+            "content_offset_seconds": 12200,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "someone should post super mario sunshine on smwcentral",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "ExDP1LNhrBfFmQ",
+            "content_offset_seconds": 12259,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "ohh I think I heard of that actually",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "XhTP1LNhrBePvw",
+            "content_offset_seconds": 12285,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "I like to think it's pretty good but 100% completion is hell",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "rBjP1LNhrBdU_g",
+            "content_offset_seconds": 12299,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "galaxy was the next 3d mario after sunshine? I think",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "Ix3P1LNhrBfpYA",
+            "content_offset_seconds": 12665,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "I wasn't paying attention so I was gonna peek at the vod and saw you played undertale yellow yesterday",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "lyHP1LNhrBfm6Q",
+            "content_offset_seconds": 12673,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "a friend of mine yelled at me to play it like the day after it came out",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "6CXP1LNhrBedvQ",
+            "content_offset_seconds": 12700,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "it was my influence",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "RCrP1LNhrBcJBg",
+            "content_offset_seconds": 12705,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "i influenced him",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "0rdV2LNhrBdK3g",
+            "content_offset_seconds": 12708,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "oh nice",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "VsJV2LNhrBc2iw",
+            "content_offset_seconds": 12718,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "yeah I was gonna ask if it's worth playing I guess. it sounds like the answer's yes",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "DsdV2LNhrBeQug",
+            "content_offset_seconds": 12724,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "yes",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "dstV2LNhrBc8lg",
+            "content_offset_seconds": 12728,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "espeically if you liked og",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "5s9V2LNhrBdQPA",
+            "content_offset_seconds": 12737,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "yeah og's a great game",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "i9RV2LNhrBcbjg",
+            "content_offset_seconds": 12799,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "i liked it more than og too",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "_9lV2LNhrBflWg",
+            "content_offset_seconds": 12808,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "so need to hold urself",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "Cd9V2LNhrBeFHA",
+            "content_offset_seconds": 12819,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "no need*",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "peNV2LNhrBdKXw",
+            "content_offset_seconds": 12976,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "did you stream the game 4 times now",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "behV2LNhrBcaAA",
+            "content_offset_seconds": 13008,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "god dammit you changed the stream's title",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "8OxV2LNhrBeb-w",
+            "content_offset_seconds": 13013,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "lmao",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "WPFV2LNhrBf5qg",
+            "content_offset_seconds": 13013,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "i hate you",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "u_VV2LNhrBfh8g",
+            "content_offset_seconds": 13026,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "gotta be honest to the viewers",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "HvpV2LNhrBfZdQ",
+            "content_offset_seconds": 13054,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "i put it on you",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "y_5V2LNhrBd9hQ",
+            "content_offset_seconds": 13076,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "i wanted to eattt",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "_wNW2LNhrBck-w",
+            "content_offset_seconds": 13098,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "but i made it look like you outraged me",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "nghW2LNhrBdjvQ",
+            "content_offset_seconds": 13107,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "the manipulator i am",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "JQ1W2LNhrBeFhg",
+            "content_offset_seconds": 13175,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "im not gonna start eating before you clear",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "lRFW2LNhrBf-Eg",
+            "content_offset_seconds": 13208,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "what if it motivates you",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "CRZW2LNhrBfkAg",
+            "content_offset_seconds": 13246,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "good",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "gxpW2LNhrBcOdQ",
+            "content_offset_seconds": 13286,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "you will remember at some point",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "9h5W2LNhrBctCA",
+            "content_offset_seconds": 13358,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "oh you were close",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "eSNW2LNhrBfylQ",
+            "content_offset_seconds": 13368,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "it was the same death for me",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "4ydW2LNhrBdH3Q",
+            "content_offset_seconds": 13459,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "gooood",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "TixW2LNhrBf2hg",
+            "content_offset_seconds": 13464,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "you understood",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "ujBW2LNhrBcr3w",
+            "content_offset_seconds": 14197,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "gg",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "JTVW2LNhrBe5-Q",
+            "content_offset_seconds": 14206,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "i thought you would die to the last phrase",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "kTlW2LNhrBfKJA",
+            "content_offset_seconds": 14452,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "oh wait",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "-T1W2LNhrBdJ4Q",
+            "content_offset_seconds": 14459,
+            "commenter": {
+                "display_name": "rumP_i",
+                "_id": "189383858",
+                "name": "rump_i"
+            },
+            "message": {
+                "body": "it was counter clockwise for me",
+                "user_color": "#1E90FF",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "WEJW2LNhrBeMoA",
+            "content_offset_seconds": 14553,
+            "commenter": {
+                "display_name": "Sfp7",
+                "_id": "118047587",
+                "name": "sfp7"
+            },
+            "message": {
+                "body": "2 raiders from Sfp7 have joined! ",
+                "user_color": "#05038C",
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "BEdW2LNhrBfLbw",
+            "content_offset_seconds": 14895,
+            "commenter": {
+                "display_name": "Sfp7",
+                "_id": "118047587",
+                "name": "sfp7"
+            },
+            "message": {
+                "body": "this seems fun, what fangame is it?",
+                "user_color": "#05038C",
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "ZUtW2LNhrBehjA",
+            "content_offset_seconds": 15019,
+            "commenter": {
+                "display_name": "Sfp7",
+                "_id": "118047587",
+                "name": "sfp7"
+            },
+            "message": {
+                "body": "it looks hard xD",
+                "user_color": "#05038C",
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "yE9W2LNhrBcB4w",
+            "content_offset_seconds": 15154,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "oh I remember this one",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "JFRW2LNhrBfrkA",
+            "content_offset_seconds": 15269,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "忘れない",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "g1hW2LNhrBduPQ",
+            "content_offset_seconds": 15280,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "aww",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "41xW2LNhrBeVHQ",
+            "content_offset_seconds": 16669,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "aggressively murders your guy",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "X2FW2LNhrBeYjg",
+            "content_offset_seconds": 16708,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "maybe it's aimed and you just have to be moving?",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "0mVW2LNhrBfgGg",
+            "content_offset_seconds": 16709,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "idk",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        },
+        {
+            "_id": "U2pW2LNhrBcrVw",
+            "content_offset_seconds": 16818,
+            "commenter": {
+                "display_name": "LouisDoucet",
+                "_id": "150590842",
+                "name": "louisdoucet"
+            },
+            "message": {
+                "body": "ty stream",
+                "user_color": "#8A2BE2",
+                "user_badges": []
+            }
+        }
+    ]
+}
