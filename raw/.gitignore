@@ -1,0 +1,5 @@
+# This directory contains the raw chat json files. It's contents are only useful if the processed
+#   files need to be (re)generated, but don't serve any purpose for the extension itself.
+#   Since they can get big with the embedded data they are excluded by default
+
+*.json
