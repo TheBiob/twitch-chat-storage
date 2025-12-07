@@ -1,0 +1,4 @@
+# This directory contains raw json files that shouldn't be mapped
+#  only used to exclude them from the sync_user_videos.js script
+
+*.json
